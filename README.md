@@ -1,8 +1,6 @@
 # Multicore_Architecture_and_Programming_assignment
 <br>
-Repository containing the report, recording of the presentation and the code for the 'Multicore Architecture and Programming' assignment
-<br>
-We have executed the codes for linear regression, KMeans clustering and Kernel density estimation both serially and in parallel.
+Repository containing the report, recording of the presentation and the code for the 'Multicore Architecture and Programming' assignment. We have executed the codes for linear regression, KMeans clustering and Kernel density estimation both serially and in parallel.
 <br><br>
 <b>Time taken for serial and parallel execution for the three models: </b>
 <br><br>
